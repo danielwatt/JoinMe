@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppTheme" parent="android:ThemeOverlay.Material.Dark.ActionBar">
+    <style name="AppTheme" parent="android:ThemeOverlay.Material.Light">
         <item name="android:activatedBackgroundIndicator">@drawable/activated_background</item>
         <item name="android:actionBarStyle">@style/MyActionBar</item>
     </style>
